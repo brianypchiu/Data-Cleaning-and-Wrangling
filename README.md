@@ -1,5 +1,4 @@
-# Project Title
-Data audit for contractors' submittal
+# Data audit for contractors' submittal
 
 
 ## Description
