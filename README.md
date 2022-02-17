@@ -5,7 +5,7 @@
 In 2021, U.S. District Court for the Southern District of Texas approved a consent decree,which demands City of Houston to clean all of waste water treatment and operation facilities, between the City of Houston, the United States Environmental Protection Agency (EPA) and the State of Texas to improve Houston's wastewater system.
 
 Contractors are required to submit data before and after cleaning. The data includes excel, access database, GIS shapefile, video and pdf report.
-My role in this project is to review, analyze and audit the data qaulity.
+My role in this project is to review, analyze and audit the data quality.
 
 More specifically,I created several scripts for this project.
    * Iterate entire directory and generate a list of submitted items, including item folders, required files (excel, access, GIS, video and pdf)
@@ -24,11 +24,7 @@ More specifically,I created several scripts for this project.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+By applying the scripts in this repo, I can generate a list of all contractors' submittal and verify if it meets our need.
 
 ## Help
 
